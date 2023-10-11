@@ -1,0 +1,12 @@
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\bin\Debug\net6.0\PS.Domain.deps.json
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\bin\Debug\net6.0\PS.Domain.dll
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\bin\Debug\net6.0\PS.Domain.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\PS.Domain.csproj.AssemblyReference.cache
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\PS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\PS.Domain.AssemblyInfoInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\PS.Domain.AssemblyInfo.cs
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\PS.Domain.csproj.CoreCompileInputs.cache
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\PS.Domain.dll
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\refint\PS.Domain.dll
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\PS.Domain.pdb
+C:\skander\kraya\Esprit\4DS4\.Net\Nunu\ProductStore\Product Store\PS.Domain\obj\Debug\net6.0\ref\PS.Domain.dll
